@@ -1,0 +1,23 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Curso de Citogenética Vegetal"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Início
+      - href: about.qmd
+        text: Apresentação
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: pt-BR
+
+editor: visual

@@ -1,0 +1,49 @@
+
+---
+title: "Curso de Citogenética Vegetal"
+toc: false
+---
+
+# Bem-vindos ao curso!
+
+O Curso de Citogenética Vegetal combina aulas
+teóricas e práticas dedicadas ao estudo dos
+cromossomos vegetais.
+
+## Objetivos
+
+Conhecer os fundamentos da citogenética vegetal,
+suas principais técnicas e aplicações na
+sistemática e evolução das plantas.
+
+## Conteúdo do curso
+
+### 1. Fundamentos de citogenética
+- Estrutura e organização dos cromossomos.
+- Ciclo celular, mitose e meiose.
+
+### 2. Técnicas citogenéticas
+- Coleta de tecidos vegetais.
+- Pré-tratamentos e fixação.
+- Preparação de lâminas.
+- Obtenção de metáfases.
+
+### 3. Análise cariotípica
+- Número e morfologia cromossômica.
+- Construção de cariogramas.
+- Índices de assimetria cariotípica.
+
+### 4. Alterações cromossômicas
+- Alterações estruturais e numéricas.
+- Poliploidia e evolução cromossômica.
+
+### 5. Citogenética molecular
+- Fundamentos da hibridação in situ.
+- Hibridação in situ fluorescente (FISH).
+- Aplicações em estudos evolutivos.
+
+## Materiais didáticos
+
+As apresentações, os protocolos de laboratório,
+os exercícios e a bibliografia estarão disponíveis
+neste site.
