@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Programa Analítico",
+    "section": "",
+    "text": "Consulte abaixo o programa completo do Curso de Citogenética Vegetal, incluindo o cronograma de quatro dias, as aulas teóricas e as atividades práticas.\nBaixar o programa completo em PDF"
+  },
+  {
+    "objectID": "programa.html#organização-e-programa-analítico-do-curso",
+    "href": "programa.html#organização-e-programa-analítico-do-curso",
+    "title": "Programa Analítico",
+    "section": "",
+    "text": "Consulte abaixo o programa completo do Curso de Citogenética Vegetal, incluindo o cronograma de quatro dias, as aulas teóricas e as atividades práticas.\nBaixar o programa completo em PDF"
+  },
+  {
+    "objectID": "aulas-praticas.html",
+    "href": "aulas-praticas.html",
+    "title": "Aulas Práticas",
+    "section": "",
+    "text": "Nesta página estão disponíveis os materiais para as atividades práticas do Curso de Citogenética Vegetal.\nOs arquivos incluem imagens citogenéticas e planilhas Excel para análise de dados."
+  },
+  {
+    "objectID": "aulas-praticas.html#materiais-para-as-aulas-práticas",
+    "href": "aulas-praticas.html#materiais-para-as-aulas-práticas",
+    "title": "Aulas Práticas",
+    "section": "",
+    "text": "Nesta página estão disponíveis os materiais para as atividades práticas do Curso de Citogenética Vegetal.\nOs arquivos incluem imagens citogenéticas e planilhas Excel para análise de dados."
+  },
+  {
+    "objectID": "aulas-praticas.html#dia-3-aula-prática",
+    "href": "aulas-praticas.html#dia-3-aula-prática",
+    "title": "Aulas Práticas",
+    "section": "Dia 3 — Aula prática",
+    "text": "Dia 3 — Aula prática\nMateriais para as atividades da tarde do terceiro dia.\n\nBaixar Parte 1 — Solanum saponaceum, células 0 a 12\nBaixar Parte 2 — Solanum saponaceum, células 13 a 25\nBaixar Parte 3 — Escalas e materiais complementares"
+  },
+  {
+    "objectID": "aulas-praticas.html#dia-4-aula-prática",
+    "href": "aulas-praticas.html#dia-4-aula-prática",
+    "title": "Aulas Práticas",
+    "section": "Dia 4 — Aula prática",
+    "text": "Dia 4 — Aula prática\nMateriais para as atividades da tarde do quarto dia.\n\nBaixar imagens e planilhas — Dia 4\n\n\nOrientações: Baixe os arquivos ZIP correspondentes à aula e extraia seu conteúdo antes de iniciar os exercícios."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Curso de Citogenética Vegetal",
@@ -26,12 +68,5 @@
     "title": "Curso de Citogenética Vegetal",
     "section": "",
     "text": "As apresentações, os protocolos de laboratório, os exercícios e a bibliografia estarão disponíveis neste site."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
