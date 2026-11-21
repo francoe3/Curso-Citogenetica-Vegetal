@@ -17,6 +17,8 @@ website:
         text: Aulas Teóricas
       - href: aulas-praticas.qmd
         text: Aulas Práticas
+      - href: bibliografia.qmd
+        text: Bibliografia
 
 format:
   html:

@@ -1,0 +1,38 @@
+---
+title: "Bibliografia"
+---
+
+## Bibliografia básica
+
+As dez leituras abaixo cobrem morfologia cromossômica, assimetria cariotípica, hibridização *in situ*, evolução cromossômica e poliploidia. Os links DOI levam às páginas oficiais dos trabalhos; o acesso ao texto completo pode depender da instituição.
+
+1. Levan, A., Fredga, K. & Sandberg, A. A. (1964). **Nomenclature for centromeric position on chromosomes.** *Hereditas* 52: 201–220. [DOI](https://doi.org/10.1111/j.1601-5223.1964.tb01953.x).
+2. Romero Zarco, C. (1986). **A new method for estimating karyotype asymmetry.** *Taxon* 35: 526–530. [DOI](https://doi.org/10.2307/1221906).
+3. Gall, J. G. & Pardue, M. L. (1969). **Formation and detection of RNA-DNA hybrid molecules in cytological preparations.** *Proceedings of the National Academy of Sciences* 63: 378–383. [DOI](https://doi.org/10.1073/pnas.63.2.378).
+4. Wu, F. & Tanksley, S. D. (2010). **Chromosomal evolution in the plant family Solanaceae.** *BMC Genomics* 11: 182. [DOI](https://doi.org/10.1186/1471-2164-11-182). [PDF de acesso aberto](https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-11-182).
+5. Chiarini, F., Sazatornil, F. & Bernardello, G. (2018). **Data reassessment in a phylogenetic context gives insight into chromosome evolution in the giant genus Solanum (Solanaceae).** *Systematics and Biodiversity* 16: 397–416. [DOI](https://doi.org/10.1080/14772000.2018.1431320).
+6. Soltis, D. E. et al. (2009). **Polyploidy and angiosperm diversification.** *American Journal of Botany* 96: 336–348. [DOI](https://doi.org/10.3732/ajb.0800079).
+7. Soltis, D. E., Visger, C. J. & Soltis, P. S. (2014). **The polyploidy revolution then…and now: Stebbins revisited.** *American Journal of Botany* 101: 1057–1078. [DOI](https://doi.org/10.3732/ajb.1400178).
+8. Soltis, P. S., Marchant, D. B., Van de Peer, Y. & Soltis, D. E. (2015). **Polyploidy and genome evolution in plants.** *Current Opinion in Genetics & Development* 35: 119–125. [DOI](https://doi.org/10.1016/j.gde.2015.11.003).
+9. Li, Z. et al. (2021). **Patterns and Processes of Diploidization in Land Plants.** *Annual Review of Plant Biology* 72: 387–410. [DOI](https://doi.org/10.1146/annurev-arplant-050718-100344).
+10. Heslop-Harrison, J. S. P., Schwarzacher, T. & Liu, Q. (2023). **Polyploidy: its consequences and enabling role in plant diversification and evolution.** *Annals of Botany* 131: 1–10. [DOI](https://doi.org/10.1093/aob/mcac132).
+
+## Bibliografia complementar
+
+Referências citadas nas aulas que poderão ser ampliadas com dados editoriais completos:
+
+- Battaglia (1955): morfologia e terminologia cromossômica.
+- Jones (1970): mudanças cromossômicas na evolução vegetal.
+- Ramsey & Schemske (1998): formação de poliploides.
+- Jones & Rees (1982): cromossomos B.
+- McClintock (1930, 1931): rearranjos cromossômicos.
+- Guerra (1983, 1988): técnicas citológicas e alterações cromossômicas.
+
+## Manuais e protocolos
+
+- Stebbins, G. L. (1971). *Chromosomal Evolution in Higher Plants*. Livro de referência.
+- Singh, R. J. (2002). *Plant Cytogenetics*. Livro de referência.
+- Zarlavsky. *Histología vegetal: técnicas simples y complejas*. Manual de técnicas citológicas (dados da edição a confirmar).
+- Ferreira, T. & Rasband, W. (2012). *ImageJ User Guide*. [Manual oficial](https://imagej.net/ij/docs/guide/).
+
+**Nota:** nem todos os artigos possuem PDFs de livre redistribuição. Os links DOI permanecem disponíveis independentemente do acesso ao texto completo.
