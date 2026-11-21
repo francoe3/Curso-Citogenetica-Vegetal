@@ -1,0 +1,31 @@
+---
+title: "Aulas Teóricas"
+---
+
+## Apresentações das aulas
+
+Nesta seção estão disponíveis as apresentações das aulas teóricas do Curso de Citogenética Vegetal, em formato PowerPoint (.pptx).
+
+### Dia 1 — Manhã
+
+[Baixar apresentação — Dia 1, manhã](apresentacoes/dia_1_manha.pptx)
+
+### Dia 1 — Tarde
+
+[Baixar apresentação — Tutorial ImageJ](apresentacoes/dia_1_tarde_imagej.pptx)
+
+### Dia 2 — Manhã
+
+[Baixar apresentação — Dia 2, manhã](apresentacoes/dia_2_manha.pptx)
+
+### Dia 3 — Manhã
+
+[Baixar apresentação — Dia 3, manhã](apresentacoes/dia_3_manha.pptx)
+
+### Dia 4 — FISH
+
+[Baixar apresentação — Dia 4, FISH](apresentacoes/dia_4_fish.pptx)
+
+---
+
+**Orientações:** Baixe as apresentações antes das aulas. Os arquivos estão disponíveis em formato PowerPoint.
